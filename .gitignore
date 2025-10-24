@@ -72,3 +72,10 @@ curatedscans/
 #########################################
 .jekyll-metadata
 .obsidian*
+
+# Local patterns                                                                                                                                                                                                                                                                 
+work
+.started                                                                                                                                                                                                                                                                         
+.annorepo-uploaded                                                                                                                                                                                                                                                               
+.index                                                                                                                                                                                                                                                                           
+data
